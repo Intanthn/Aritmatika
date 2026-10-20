@@ -1,0 +1,10 @@
+a = int(input("Angka pertama: "))
+b = int(input("Angka kedua: "))
+
+print("Penjumlahan:", a + b)
+print("Pengurangan:", a - b)
+print("Perkalian:", a * b)
+print("Pembagian:", a / b)
+print("Pembagian Bulat:", a // b)
+print("Sisa Bagi:", a % b)
+print("Pangkat:", a ** b)
